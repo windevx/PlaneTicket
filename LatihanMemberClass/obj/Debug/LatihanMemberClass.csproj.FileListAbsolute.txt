@@ -1,0 +1,8 @@
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe.config
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.exe
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\bin\Debug\LatihanMemberClass.pdb
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.AssemblyReference.cache
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.csproj.CoreCompileInputs.cache
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.pdb
+D:\25.11.6502\pemograman\LatihanMemberClass\LatihanMemberClass\obj\Debug\LatihanMemberClass.exe.config
